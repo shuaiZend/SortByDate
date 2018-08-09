@@ -40,7 +40,7 @@ class Config  {
 	{
 		$default_options = [];
 		$default_options['name'] = $options['name'];
-		$customOption['created_at'] = __('Date');
+		$customOption['created_at'] = __('New Arrivals');
 		$customOption['price'] = __('Price');
 		$customOption['name'] = $default_options['name'];
 
